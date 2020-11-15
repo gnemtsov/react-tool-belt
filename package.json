@@ -1,7 +1,28 @@
 {
-  "name": "rtb",
+  "name": "react-tool-belt",
+  "description": "Bulletproof components and tools for React apps",
   "version": "0.1.0",
-  "private": true,
+  "keywords": [
+    "react",
+    "redux",
+    "redux-saga",
+    "components library",
+    "boilerplate"
+  ],
+  "private": false,
+  "license": "MIT",
+  "homepage": "https://github.com/gnemtsov/react-tool-belt",
+  "bugs": {
+    "url": "https://github.com/gnemtsov/react-tool-belt/issues"
+  },
+  "author": {
+    "name": "Georgy Nemtsov",
+    "email": "gnemtsov@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnemtsov/react-tool-belt.git"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
