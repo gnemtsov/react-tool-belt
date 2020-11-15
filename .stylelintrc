@@ -1,0 +1,11 @@
+{
+    "extends": "stylelint-config-recommended",
+    "rules": {
+        "at-rule-no-unknown": [true, {
+            "ignoreAtRules": ["function", "if", "else", "each", "include", "mixin", "return"]
+        }],
+        "selector-pseudo-class-no-unknown": [true, {
+            "ignorePseudoClasses": ["global"]
+        }]
+    }
+}
