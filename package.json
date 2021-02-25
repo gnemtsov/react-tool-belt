@@ -1,5 +1,5 @@
 {
-  "name": "@ab-task/react-tool-belt",
+  "name": "@ab-task/rtb",
   "description": "Bulletproof components and tools for React apps",
   "version": "0.1.1",
   "keywords": [
@@ -11,9 +11,9 @@
   ],
   "private": false,
   "license": "MIT",
-  "homepage": "https://github.com/ab-task/react-tool-belt",
+  "homepage": "https://github.com/ab-task/rtb",
   "bugs": {
-    "url": "https://github.com/ab-task/react-tool-belt/issues"
+    "url": "https://github.com/ab-task/rtb/issues"
   },
   "authors": [
     "Georgy Nemtsov <gnemtsov@gmail.com> (https://github.com/gnemtsov)",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ab-task/react-tool-belt.git"
+    "url": "git+https://github.com/ab-task/rtb.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
